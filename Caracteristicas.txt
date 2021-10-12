@@ -1,0 +1,15 @@
+*Linguagem de script e multiplataforma
+
+*Client side- executada do lado do cliente (usuario).
+
+* Tem a capacidade de interagir com elementos de uma pagina html
+Graças ao DOM (Document Object Model)
+    *Javascrip pode alterar todos os elementos do HTML.
+    *Javascrip pode alterar todos os atributos e estilos de CSS de uma pagina 
+
+*Usado em desenvolvimento de paginas e aplicativos mobile hibridos
+
+
+Pode ser usado em um arquivo separado ou dentro do html atraves da tag <script> </script>
+
+alert = gera um popup de alerta na pagina
